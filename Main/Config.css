@@ -66,7 +66,7 @@
 	/* change to block to show, none to hide */
 	--discord-icon: none; /* discord icon */
 	--moon-icon: block; /* moon icon */
-	--moon-icon-url: url('https://raw.githubusercontent.com/F4ir/F4irs-midnight/refs/heads/main/images/logo.png'); /* custom icon url */
+	--moon-icon-url: url('https://github.com/iiTzJeroen/DiscordTheme/blob/main/Images/Pfp%20discord%203.jpg'); /* custom icon url */
 	--moon-icon-size: auto;
 
 	/* filter uncolorable elements to fit theme */
